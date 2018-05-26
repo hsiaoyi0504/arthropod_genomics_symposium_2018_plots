@@ -1,0 +1,3 @@
+[submodule "genomics-workspace"]
+	path = genomics-workspace
+	url = https://github.com/NAL-i5K/genomics-workspace
